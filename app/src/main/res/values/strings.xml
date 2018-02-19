@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Shared Preferences Cnu</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_phone">Phone No</string>
+    <string name="text_save">Save User</string>
+    <string name="text_clear">Clear User</string>
+    <string name="text_admin">Admin</string>
+    <string name="text_user">User</string>
+    <string name="text_hello">Hello,</string>
+    <string name="text_title">Welcome to \nAndroid Tutorials Cnu Reddy C</string>
+</resources>
